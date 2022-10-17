@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "GIS Project",
-    "section": "",
-    "text": "Welcome to team 4 GIS project website!"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "intro.html#project-task",
     "href": "intro.html#project-task",
     "title": "Introduction",
@@ -26,5 +12,19 @@
     "title": "Introduction",
     "section": "The data",
     "text": "The data"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "GIS Project",
+    "section": "",
+    "text": "Welcome to team 4 GIS project website!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
   }
 ]
