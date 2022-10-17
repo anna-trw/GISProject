@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "intro.html#project-task",
+    "href": "intro.html#project-task",
+    "title": "Introduction",
+    "section": "Project Task",
+    "text": "Project Task\nproject tasks are as follows:\n\ncompile necessary data\nderive new insights"
+  },
+  {
+    "objectID": "intro.html#the-data",
+    "href": "intro.html#the-data",
+    "title": "Introduction",
+    "section": "The data",
+    "text": "The data"
   }
 ]
